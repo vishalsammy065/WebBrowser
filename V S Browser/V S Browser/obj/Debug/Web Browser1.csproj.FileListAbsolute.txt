@@ -1,0 +1,8 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\bin\Debug\Web Browser1.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\bin\Debug\Web Browser1.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Debug\Web_Browser1.Form1.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Debug\Web_Browser1.Properties.Resources.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Debug\Web Browser1.csproj.GenerateResource.Cache
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Debug\Web Browser1.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Debug\Web Browser1.pdb

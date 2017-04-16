@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\V S Browser\V S Browser\bin\Debug\V S Browser.exe
+C:\Users\Dell\Desktop\V S Browser\V S Browser\bin\Debug\V S Browser.pdb
+C:\Users\Dell\Desktop\V S Browser\V S Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\V S Browser\V S Browser\obj\Debug\Web_Browser1.Form1.resources
+C:\Users\Dell\Desktop\V S Browser\V S Browser\obj\Debug\Web_Browser1.Properties.Resources.resources
+C:\Users\Dell\Desktop\V S Browser\V S Browser\obj\Debug\V S Browser.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\V S Browser\V S Browser\obj\Debug\V S Browser.exe
+C:\Users\Dell\Desktop\V S Browser\V S Browser\obj\Debug\V S Browser.pdb

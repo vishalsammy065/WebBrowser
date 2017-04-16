@@ -1,0 +1,4 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Release\Web_Browser1.Form1.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Release\Web_Browser1.Properties.Resources.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\Web Browser1\obj\Release\Web Browser1.csproj.GenerateResource.Cache
